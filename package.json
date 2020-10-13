@@ -198,7 +198,7 @@
     "react-docgen-typescript-loader": "^3.7.2",
     "react-refresh": "^0.8.3",
     "react-test-renderer": "^16.13.1",
-    "source-map-loader": "^1.1.0",
+    "source-map-loader": "^1.1.1",
     "storybook-addon-designs": "^5.4.1",
     "storybook-addon-i18n": "^5.1.13",
     "ts-jest": "26.3.0",
